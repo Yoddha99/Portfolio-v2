@@ -1,0 +1,29 @@
+.nav-item {
+  margin-right: 30px;
+}
+
+.Niraj {
+  margin-left: 200px;
+}
+
+.jumbotron p {
+  font-weight: 600;
+  margin-top: 50px;
+}
+
+.jumbotron {
+  opacity: 0.9;
+}
+
+.navbar-light .navbar-brand {
+  font-weight: 900;
+}
+
+.row.clearmargin.clearpadding.row-image-txt {
+  margin-top: 70px;
+}
+
+.text-center {
+  font-size: 50px;
+}
+
